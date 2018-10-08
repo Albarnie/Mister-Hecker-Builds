@@ -2,12 +2,12 @@
 
 A game I made in four days for a game jam.
 
-#Contributors
+# Contributors
 Albarnie
 Dr. Duck (Conceptualisation and design)
 TrustworthyGuy (Level design)
 
-#Links
+# Links
 Website: https://albarnie.blogspot.com/
 The Game I'm Working on: https://github.com/albarnie/ken-builds
 Showcase Video: https://youtu.be/L97K7qOeSBo
