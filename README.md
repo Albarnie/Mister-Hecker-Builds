@@ -4,7 +4,9 @@ A game I made in four days for a game jam.
 
 # Contributors
 Albarnie
+
 Dr. Duck (Conceptualisation and design)
+
 TrustworthyGuy (Level design)
 
 # Links
